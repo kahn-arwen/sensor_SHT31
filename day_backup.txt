@@ -1,0 +1,2 @@
+Data		Hora       Temp_atual	Temp_med	Temp_min	Temp_max      Umi_atual     Umi_med     Umi_min     Umi_max
+03/10/2024	15:06:28    25.63 °C	 40.04 °C	-1.25 °C	 130.00 °C     48.38 RH      59.64 RH    40.76 RH    100.00 RH   
